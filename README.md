@@ -14,9 +14,10 @@ npm run serve
 ```
 npm run build
 ```
-# serve with hot reload at localhost:3000
+### serve with hot reload at localhost:3000
+```
 npm run dev
-
+```
 ### Lints and fixes files
 ```
 npm run lint
